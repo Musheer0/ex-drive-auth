@@ -21,21 +21,23 @@ app.use((req,res,next)=>{
 app.use(cookie())
 app.use(helmet());
 
-// app.use(cors({
-//        origin:(or, cb)=>{
-//         console.log(or);
-//         cb(null ,true)
-//        },
-//            methods: ['POST','GET', 'PUT','DELETE'],
-//     credentials: true,
-//     allowedHeaders: ['Content-Type', 'Bearer','Authorization'],
-//     exposedHeaders: ['X-user-Id'],
-//     preflightContinue: false,
-//     maxAge: '15'
-// }));
+app.use(cors({
+       origin:(or, cb)=>{
+        if(or===process.env.FRONTEND)
+        cb(null ,true)
+        else
+         cb(new Error("Invalid origin"), false)
+       },
+           methods: ['POST','GET', 'PUT','DELETE'],
+    credentials: true,
+    allowedHeaders: ['Content-Type', 'Bearer','Authorization'],
+    exposedHeaders: ['X-user-Id'],
+    preflightContinue: false,
+    maxAge: '15'
+}));
 const rate_limiter = rateLimit({
     windowMs: 15*60,
-    limit: 10,
+    limit: 5,
     standardHeaders:true,
     legacyHeaders: false,
     store: new RedisStore({
