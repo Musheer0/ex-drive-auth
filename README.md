@@ -12,10 +12,7 @@ This is the **Auth microservice** for the `ex-drive` project — a minimal, depe
   - Exchanges it for an access token
   - Fetches user profile
   - Stores user in database
-- Provides the usual auth features:
-  - `register` / `login`
-  - `logout`
-  - `refresh-token`
+- Provides the usual auth features
 - Every token is linked to the **IP address** and **location** (for that extra bit of context/security)
 
 ---
@@ -89,11 +86,9 @@ You want to build your own Google OAuth without depending on any of their SDKs? 
 
 ## 🧪 TODOs
 
-* [ ] Rate limiting
 * [ ] IP/location change detection
 * [ ] Unit tests
 * [ ] Docker support (optional)
-* [ ] Swagger docs
 
 ---
 
