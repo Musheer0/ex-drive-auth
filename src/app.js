@@ -18,6 +18,7 @@ app.use((req,res,next)=>{
     logger.info(`${req.url}      --${req.method}`)
     next()
 });
+app.use(express.json())
 app.use(cookie())
 app.use(helmet());
 
