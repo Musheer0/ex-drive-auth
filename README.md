@@ -20,7 +20,7 @@ This is the **Auth microservice** for the `ex-drive` project — a minimal, depe
 ## ⚙️ Stack
 
 - **Node.js** + **Express.js**
-- Database support via your ORM/driver of choice (plug your own)
+- Database psql
 - No third-party Google auth SDKs — raw HTTP all the way
 
 ---
