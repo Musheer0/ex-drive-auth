@@ -452,3 +452,91 @@
 {"level":"info","message":"Server running on port 3002","service":"auth-service"}
 {"level":"info","message":"Server running on port 3002","service":"auth-service"}
 {"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"Server running on port 3002","service":"auth-service"}
+{"level":"info","message":"Server running on port 3002","service":"auth-service"}
+{"level":"info","message":"Server running on port 3002","service":"auth-service"}
+{"level":"info","message":"Server running on port 3002","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --GET","service":"auth-service"}
+{"level":"info","message":"/      --POST","service":"auth-service"}
+{"level":"info","message":"Server running on port 3002","service":"auth-service"}
+{"level":"info","message":"/      --POST","service":"auth-service"}
+{"level":"info","message":"/      --GET","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/      --POST","service":"auth-service"}
+{"level":"info","message":"/      --GET","service":"auth-service"}
+{"level":"info","message":"/favicon.ico      --GET","service":"auth-service"}
+{"level":"info","message":"/api/auth/oauth/google?code=4%2F0AUJR-x6mAPRwyC1xQLHMskyg8LPMPZJWhxNubaAq2znQKGDE3MDMQXUFrq4w9XuQrGF-rQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent      --GET","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --GET","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --GET","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --GET","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --GET","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --GET","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --GET","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"Server running on port 3002","service":"auth-service"}
+{"level":"info","message":"Server running on port 3002","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"Server running on port 3002","service":"auth-service"}
+{"level":"info","message":"/api/auth      --POST","service":"auth-service"}
+{"level":"info","message":"/api/auth      --GET","service":"auth-service"}
+{"level":"info","message":"/api/auth//oauth/google      --GET","service":"auth-service"}
+{"level":"info","message":"/api/auth/oauth/google      --GET","service":"auth-service"}
+{"level":"info","message":"/api/auth/      --GET","service":"auth-service"}
+{"level":"info","message":"/api/auth/      --GET","service":"auth-service"}
+{"level":"info","message":"Server running on port 3002","service":"auth-service"}
+{"level":"info","message":"/api/auth/      --GET","service":"auth-service"}
+{"level":"info","message":"/api/token      --GET","service":"auth-service"}
+{"level":"info","message":"/api/token/verify      --POST","service":"auth-service"}
+{"level":"info","message":"Server running on port 3002","service":"auth-service"}

@@ -18,7 +18,7 @@ export const CreatedSessionToken = async(userId,ip )=>{
 };
 export const GetUserInfoFromToken = async(tokenId, userId)=>{
     const search_query = `
-  SELECT users.id, users.email,users.name, users.image, session_token.ip, session_token.id
+  SELECT users.id, users.email,users.name, users.image
 FROM users
 INNER JOIN session_token ON session_token.id=$1 AND session_token.user_id=$2
     `

@@ -1,5 +1,5 @@
 
-# 🛂 ex-drive-auth
+# 🛂 garib-drive-auth
 
 This is the **Auth microservice** for the `ex-drive` project — a minimal, dependency-light service that handles **Google OAuth** _without using Google's SDKs or libraries_. Everything is done using **pure webhooks + HTTP requests**.
 

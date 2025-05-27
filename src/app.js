@@ -51,7 +51,7 @@ app.use((req,res,next)=>{
     next()
 })
 
-app.get('/',(req,res)=>{
+app.get('/api/auth',(req,res)=>{
     res.json({
                 google:  google_oauth_uri
     })
